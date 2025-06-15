@@ -2,5 +2,5 @@
 
 EAD coursework 242F-006
 
-run->
+how to run->
 run login.java
